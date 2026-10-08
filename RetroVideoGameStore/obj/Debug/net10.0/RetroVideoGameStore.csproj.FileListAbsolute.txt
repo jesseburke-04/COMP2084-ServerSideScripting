@@ -95,3 +95,4 @@
 /Users/jesseburke/Downloads/COMP2084-ServerSideScripting/RetroVideoGameStore/obj/Debug/net10.0/RetroVideoGameStore.pdb
 /Users/jesseburke/Downloads/COMP2084-ServerSideScripting/RetroVideoGameStore/obj/Debug/net10.0/RetroVideoGameStore.genruntimeconfig.cache
 /Users/jesseburke/Downloads/COMP2084-ServerSideScripting/RetroVideoGameStore/obj/Debug/net10.0/ref/RetroVideoGameStore.dll
+/Users/jesseburke/Downloads/COMP2084-ServerSideScripting/RetroVideoGameStore/obj/Debug/net10.0/RetroVideoGameStore.sourcelink.json
